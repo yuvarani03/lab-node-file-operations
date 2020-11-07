@@ -13,15 +13,6 @@ Whenever you create a first significant change, you should make your first commi
 
 In the end of this document, you will find guidelines on how to submit the exercise.
 
-### Introduction
-
-You just realized that since the beginning of the bootcamp, your diet is not healthy and it may have an impact on your health (and productivity), now and in the long term.
-
-To take care of the food you eat, you decided to create a nutrition app that will track everything you eat!
-
-![Image description](https://i1.faceprep.in/ProGrad/Pro-Nutrition.gif)
-
-So let's get started!
 
 ### Output
 ```
