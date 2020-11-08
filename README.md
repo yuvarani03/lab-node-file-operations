@@ -27,7 +27,7 @@ Today is our first day using Node, so we will practice doing some basic operatio
 
 ## Testing - Introduction
 
-This exercise will be completed through a series of tests. You should be familiar with testing from previous lessons and exercises, but just in case, here is a short recap of Intro to testing. :wink:
+This exercise will be completed through a series of tests. here is a short Intro to testing. :wink:
 
 ### What is testing?
 
