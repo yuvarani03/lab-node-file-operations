@@ -4,6 +4,13 @@
 
 # PROGRAD LABS | NODE | FILE OPERATIONS
 
+## Learning Goals
+
+In this exercise, the goal is to learn various node modules:
+
+- os module
+- fs module
+- crypto
 
 ## Getting started
 
@@ -17,11 +24,45 @@ Whenever you create a first significant change, you should make your first commi
 In the end of this document, you will find guidelines on how to submit the exercise.
 
 ## Introduction
-In this lab we will be using 
+In this lab we will work on fetching data from one file into another and encrypting the data inside the file.
+Import the following modules in index.js
+- os
+- fs
+- crypto
+### PROGRESSION 1 | data.js
+Create a file called data.js and create data module inside it with three arguments `name, year and qualification`. 
+```
+module.exports.data=(name,year,qualification)=>{
+    data={
+        name:name,
+        Year:year,
+        Qualification:qualification
+    }
+    return data
+}
+```
 
+### PROGRESSION 2 | message.txt
+Create a text file called message.txt. You need to fetch the data from data.js and write the value inside message.txt
+
+### PROGRESSION 3 | index.js
+Your task in this progression is to fetch all the data from data.js and then you need to write the data in message.txt. Import all the necessary modules inside index.js.
+fetch the userinfo from the os module and the value to data.js can be passed as
+```
+var userdata= value.data("Prograd",2020,"BE")
+```
+
+### PROGRESSION 4 | CYRPTO
+Your task in this iteration to use `crypto` module and encrypt the password.
+```
+const crypto = require('crypto');
+const password = crypto.createHmac('sha256', secret).update('Prograd').digest('hex');
+
+```
 
 ### Output
 ```
+message.txt
 ProGrad Details
    UserId ->        1000,
    Name ->          Prograd,
