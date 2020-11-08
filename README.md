@@ -46,7 +46,7 @@ module.exports.data=(name,year,qualification)=>{
 Create a text file called message.txt. You need to fetch the data from data.js and write the value inside message.txt
 
 ### PROGRESSION 3 | index.js
-Your task in this progression is to fetch all the data from data.js and then you need to write the data in message.txt. Import all the necessary modules inside index.js.
+Your task in this progression is to fetch all the data from data.js and then you need to append the data in message.txt. Import all the necessary modules inside index.js.
 fetch the userinfo from the os module and the value to data.js can be passed as
 ```
 var userdata= value.data("Prograd",2020,"BE")
