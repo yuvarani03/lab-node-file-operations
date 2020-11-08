@@ -2,6 +2,8 @@
 
 ![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
 
+# PROGRAD LABS | NODE | FILE OPERATIONS
+
 
 ## Getting started
 
@@ -13,6 +15,9 @@ Whenever you create a first significant change, you should make your first commi
 3. Follow these [guidelines to add, commit and push changes](https://github.com/FACEPrep-ProGrad/general-guidelines-labs-project-builders.git).
 
 In the end of this document, you will find guidelines on how to submit the exercise.
+
+## Introduction
+In this lab we will be using 
 
 
 ### Output
