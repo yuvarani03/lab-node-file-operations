@@ -1,9 +1,0 @@
-
-  ProGrad Details
-   UserId ->        1000,
-   Name ->          Prograd,
-   Year ->          2020,
-   Qualification -> BE,
-   UserName->       venkatesh,
-   Password ->      18f79a9320c22ae6bae0c51a353ee25f2b89d8de113e4f488ebdbcda5d2b5c60
-  
